@@ -1,10 +1,10 @@
 module sum1bcc_primitive (A, B, Ci,Cout,S);
 
-  input  A;
-  input  B;
-  input  Ci;
-  output Cout;
-  output S;
+  input  A;//Declaración de entrada A del bloque funcional
+  input  B;//Declaración de entrada B del bloque funcional
+  input  Ci;//Declaración de carry de entrada del bloque funcional
+  output Cout;//Declaración carry de salida del bloque funcional
+  output S;//Declaración de la salida S del bloque funcional
 
 
   wire a_ab;
