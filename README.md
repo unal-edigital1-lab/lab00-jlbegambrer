@@ -15,6 +15,7 @@ Genera la simulación, Revise que el sistema funciona como usted lo esperaba. Re
 
 Realice la respectiva publicación del repositorio antes de la fecha dada con todo el código fuente
 
+Agregar Fotos.
 
 
 
