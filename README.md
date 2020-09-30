@@ -3,7 +3,9 @@ Informe de laboratorio 01 introducción a HDL
 Electrónica Digital 1
 
 Jonathan Leonardo Begambre Rodríguez
+
 Ingeniero mecánico en formación
+
 Universidad NAcional de Colombia.
 Sede Bogotá.
 
