@@ -1,7 +1,14 @@
 # lab01- sumador 
-laboratorio 01 introducción a HDL
-En esta plantilla debe adicionar la documentación del laboratorio
-* Jonathan Leonardo Begambre Rodríguez
+Informe de laboratorio 01 introducción a HDL
+Electrónica Digital 1
+
+Jonathan Leonardo Begambre Rodríguez
+Ingeniero mecánico en formación
+Universidad NAcional de Colombia.
+Sede Bogotá.
+
+
+
 Entregables:
 -Comprenda cada línea del código HDL del archivo sum1bcc_primitive.v y sum1bcc.v que se encuentra en la carpera src. Si cree necesario realice los respectivos comentarios en el mismo archivo y comente las diferencias entre las dos descripciones.
 
