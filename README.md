@@ -6,8 +6,10 @@ Jonathan Leonardo Begambre Rodríguez
 
 Ingeniero mecánico en formación
 
-Universidad NAcional de Colombia.
+Universidad Nacional de Colombia.
 Sede Bogotá.
+
+Informe:
 
 
 
