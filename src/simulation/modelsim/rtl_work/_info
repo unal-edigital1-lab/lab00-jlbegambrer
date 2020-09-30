@@ -10,74 +10,50 @@ z2
 cModel Technology
 Z0 dE:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/simulation/modelsim
 vsum1bcc
-Z1 !s110 1600902130
+!s110 1601473254
 !i10b 1
-!s100 kbd>86O=0<2:dcRSLWeg_0
-Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I[TCF]1J>lWBMJLB;of`AX0
-Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s100 L;laKRJmD4=93F3YIET^R0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IB`N3mL;8hR@PJNIRU4__@2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1599664640
+w1601473172
 8E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum1bcc.v
 FE:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum1bcc.v
 !i122 0
-L0 1 17
-Z4 OV;L;2020.1;71
+L0 1 18
+Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1600902130.000000
+!s108 1601473254.000000
 !s107 E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum1bcc.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src|E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum1bcc.v|
 !i113 1
-Z6 o-vlog01compat -work work
-Z7 !s92 -vlog01compat -work work {+incdir+E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src}
-Z8 tCvgOpt 0
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work {+incdir+E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src}
+Z6 tCvgOpt 0
 vsum4bcc
-R1
+!s110 1601473255
 !i10b 1
 !s100 :Rd62;b1aGh>Gn0NNVFEk0
-R2
+R1
 Ih_JV><IJ0T9N[nIj_ND>k0
-R3
+R2
 R0
-w1600899979
+w1601472349
 8E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum4bcc.v
 FE:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum4bcc.v
 !i122 1
 L0 1 15
-R4
+R3
 r1
 !s85 0
 31
-R5
+!s108 1601473255.000000
 !s107 E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum4bcc.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src|E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/sum4bcc.v|
 !i113 1
-R6
-R7
-R8
-vtestbench
-R1
-!i10b 1
-!s100 Z`EVC2D2[L@aFkf:YAFE:0
-R2
-I84NjDeUEQVW_eZWbNcFIC0
-R3
-R0
-w1600901709
-8E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/testbech.v
-FE:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/testbech.v
-!i122 2
-L0 1 29
 R4
-r1
-!s85 0
-31
 R5
-!s107 E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/testbech.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src|E:/JB/U/15S/6. Digital Electronic I/Laboratory/GitHub/lab00-jlbegambrer/src/testbech.v|
-!i113 1
 R6
-R7
-R8
